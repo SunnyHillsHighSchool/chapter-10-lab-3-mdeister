@@ -19,7 +19,7 @@ public class Tree extends Canvas
 	{
 		window.setColor(Color.RED);
 		window.setFont(new Font("TAHOMA",Font.BOLD,12));
-		window.drawString("Lab14h - Tree Lab", 50, 50);
+		window.drawString("Chapter 10 Lab 3 - Tree Lab", 50, 50);
 		
 		tree(window);
 
